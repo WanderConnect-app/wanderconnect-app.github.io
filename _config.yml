@@ -52,17 +52,17 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor
-  - _src
-  - LICENSE
-  - package.json
-  - README.md
-  - webpack.config.js
-  - yarn-error.log
-  - yarn.lock
-  - config
-  - optimization-fix
-  - optimization-fix-this-file-is-ignored.js
-  - icon.png
-  - docs
+  # - node_modules
+  # - vendor
+  # - _src
+  # - LICENSE
+  # - package.json
+  # - README.md
+  # - webpack.config.js
+  # - yarn-error.log
+  # - yarn.lock
+  # - config
+  # - optimization-fix
+  # - optimization-fix-this-file-is-ignored.js
+  # - icon.png
+  # - docs
