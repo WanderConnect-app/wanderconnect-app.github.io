@@ -55,7 +55,6 @@ exclude:
   - node_modules
   - vendor
   - _src
-  - _images
   - LICENSE
   - package.json
   - README.md
